@@ -37,7 +37,8 @@ git clone https://github.com/yourusername/social-media-analytics-dashboard.git
 cd social-media-analytics-dashboard
 
 ### 2. pip install -r requirements.txt
+```bash
 
 ### 3. streamlit run app.py
-
+```bash
 
